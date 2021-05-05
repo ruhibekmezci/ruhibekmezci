@@ -4,9 +4,6 @@
 <p align="center">
  "Electrical - Electronics Engineer` and `Software Developer"
 </p>
-<p align="center">
-"Elektrik - Elektronik Mühendisi" ve "Yazılım Geliştiricisi"
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ruhi-atakan-bekmezci-09443270/"><img src="https://img.shields.io/badge/LINKEDIN-D14836?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"></a>
